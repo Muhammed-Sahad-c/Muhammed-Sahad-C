@@ -39,7 +39,31 @@ _I'm a dedicated and enthusiastic web developer with a strong passion for crafti
 
 
 
-<div align="center"></div>
+<div align="center">
+  
+  ## Skills
+  
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)
+
+![MVC](https://img.shields.io/badge/-MVC-FF5733?style=flat)
+![AJAX](https://img.shields.io/badge/-AJAX-1572B6?style=flat)
+![Google Authentication](https://img.shields.io/badge/-Google%20Authentication-4285F4?style=flat&logo=google&logoColor=white)
+
+</div>
 
 <div align="center">
   
