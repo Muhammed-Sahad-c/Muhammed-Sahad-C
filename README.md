@@ -1,4 +1,6 @@
-<div id="badges"  align="center">
+  
+  ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
+  
   <a href="https://www.linkedin.com/in/muhammed-sahad-781a15231/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -73,6 +75,19 @@ Familiar with
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+</div>
+
+<div align="center">
+
+  ## Statitics
+  
+  ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=00sahad&show_icons=true&theme=tokyonight)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00sahad&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+ <img src="https://github.com/00sahad/Profile/assets/109616941/3e3d6024-d9e6-4f60-b28e-741c2a64287f" alt="hai"/>
+
 
 </div>
 
