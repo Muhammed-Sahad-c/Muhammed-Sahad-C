@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <img src="https://github.com/00sahad/Profile/assets/109616941/7b4e3ffb-8058-4db1-9d09-6fb2a9b452e1" width="100" />
-</div>
-
-
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/muhammed-sahad-781a15231/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,14 +20,31 @@
 
   <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
+   I'm Muhammed Sahad
 </h1>
+ <h4>
+      <strong>
+        A passionate Web developer from India
+      </strong>
+    </h4>
 
-<div align="start">
-  :woman_technologist: About Me :
-  <p>
-    - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  </p>
+<div align="center">
+
+_I'm a dedicated and enthusiastic web developer with a strong passion for crafting exceptional online experiences. Having recently completed my higher secondary education, I'm now equipped with a solid foundation to complement my web development skills. Currently, I completed an internship program from <a href="https://brototype.com"> Brototype </a> Self learning platform._
+  
 </div>
+</div>
+
+
+
+
+<div align="center"></div>
+
+<div align="center">
+  
+  ## Contact
+
+_If you have any doubts or would like to discuss a potential collaboration at work, please don't hesitate to reach out to me via email at [sahadmuhammd289@gmail.com](mailto:sahadmuhammed289@gmail.com). I'm always open to new opportunities and meaningful discussions._
 </div>
 
