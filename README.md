@@ -63,6 +63,17 @@ _I'm a dedicated and enthusiastic web developer with a strong passion for crafti
 ![AJAX](https://img.shields.io/badge/-AJAX-1572B6?style=flat)
 ![Google Authentication](https://img.shields.io/badge/-Google%20Authentication-4285F4?style=flat&logo=google&logoColor=white)
 
+Familiar with
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 </div>
 
 <div align="center">
