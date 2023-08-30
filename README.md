@@ -1,4 +1,4 @@
-  
+
   ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
   
   <a href="https://www.linkedin.com/in/muhammed-sahad-781a15231/">
@@ -86,7 +86,7 @@ Familiar with
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00sahad&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
- <img src="https://github.com/00sahad/Profile/assets/109616941/3e3d6024-d9e6-4f60-b28e-741c2a64287f" alt="hai"/>
+![Leetcode Stats](https://leetcard.jacoblin.cool/00sahad?ext=heatmap)
 
 
 </div>
