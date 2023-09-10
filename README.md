@@ -21,13 +21,13 @@
   </a>
 
   <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
    I'm Muhammed Sahad
 </h1>
  <h4>
       <strong>
-        A passionate Web developer from India
+        A passionate web developer from India
       </strong>
     </h4>
 
