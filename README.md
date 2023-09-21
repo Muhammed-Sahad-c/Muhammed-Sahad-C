@@ -32,7 +32,7 @@
       </strong>
     </h4>
 
-<div align="center">
+<div align="start">
 
 _I'm a dedicated and enthusiastic web developer with a strong passion for crafting exceptional online experiences. Having recently completed my higher secondary education, I'm now equipped with a solid foundation to complement my web development skills. Currently, I completed an internship program from <a href="https://brototype.com"> Brototype </a> Self learning platform._
   
@@ -42,7 +42,7 @@ _I'm a dedicated and enthusiastic web developer with a strong passion for crafti
 
 
 
-<div align="center">
+<div align="start">
   
   ## Skills
   
@@ -79,7 +79,7 @@ Familiar with
 
 </div>
 
-<div align="center">
+<div align="start">
 
   ## Statitics
   
