@@ -28,7 +28,7 @@
 </h1>
  <h4>
       <strong>
-        A passionate web developer from India
+        A passionate web developer from India.
       </strong>
     </h4>
 
