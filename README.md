@@ -1,17 +1,24 @@
 <img src="https://github.com/Muhammed-Sahad-c/Muhammed-Sahad-C/assets/109616941/0d277002-bb3b-48b4-839f-0d1c8ab5fdf3"/>
-<h1> 🧑‍💻Muhammed Sahad </h1>
-<h4>
-Software Developer | UI/UX Enthusiast
-</h4>
-<h6>📍 Kerala, India</h6>
-<h6>🏢 Task force technologies</h6>
-<h3>About</h3>
-<p>
-  I'm passionate about creating digital experiences through Software development and UI/UX Designing. I'm self-taught, enjoy studying new technologies and constantly expanding skills.
-</p>
-<h3>Skills</h3>
 
-<div>
+<div align="center">
+<h6>📍 </br> </br> Kerala, India</h6>
+<h6>🏢 </br> </br> Task force technologies</h6>
+</div>
+
+<div align="center">
+  <h5>
+    <img src="https://media.giphy.com/media/9IZQO6hTyaXCb589O4/giphy.gif" width="200px"/>
+  </h5>
+  <strong align="center">
+       I'm passionate about creating digital experiences through Software development and UI/UX Designing. </br>
+       I'm self-taught, enjoy studying new technologies and constantly expanding skills.
+  </strong>
+</div>
+
+
+<h3 align="center">Skills</h3>
+
+<div align="center">
   
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=css3&logoColor=white)
@@ -21,7 +28,7 @@ Software Developer | UI/UX Enthusiast
 
 </div>
 
-<div>
+<div align="center">
   
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -30,19 +37,20 @@ Software Developer | UI/UX Enthusiast
 
 </div>
 
-<div>
+<div align="center">
   
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 </div>
 
 
-  <h2>Let's connect..</h2>
-  <p>Let's connect and create something extraordinary together 💡</p>
+  <h3 align="center">Let's connect..</h3>
+  <p align="center">Let's connect and create something extraordinary together 💡</p>
 
-  📧 [sahadmuhammd289@gmail.com](mailto:sahadmuhammed289@gmail.com)
-  
-  <a href="https://www.linkedin.com/in/muhammed-sahad-781a15231/">
+<h6 align="center">📧 sahadmuhammd289@gmail.com</h6>
+  <p align="center">...</p>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/muhammed-sahad-781a15231/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCG9uyE89cnR63OOCHrA681Q">
@@ -54,3 +62,4 @@ Software Developer | UI/UX Enthusiast
   <a href="https://www.instagram.com/iam_sahad__/">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
+  </div>
