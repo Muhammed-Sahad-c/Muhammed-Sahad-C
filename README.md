@@ -1,7 +1,7 @@
 <img src="https://github.com/Muhammed-Sahad-c/Muhammed-Sahad-C/assets/109616941/0d277002-bb3b-48b4-839f-0d1c8ab5fdf3"/>
 
 <div align="center">
-<h6>📍 </br> </br> Kerala, India</h6>
+<h6>📍 </br> </br> Kerala, Karnataka India</h6>
 <h6>🏢 </br> </br> Task force technologies</h6>
 </div>
 
