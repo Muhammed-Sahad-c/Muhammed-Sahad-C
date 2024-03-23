@@ -10,8 +10,7 @@
     <img src="https://media.giphy.com/media/9IZQO6hTyaXCb589O4/giphy.gif" width="200px"/>
   </h5>
   <strong align="center">
-       I'm passionate about creating digital experiences through Software development and UI/UX Designing. </br>
-       I'm self-taught, enjoy studying new technologies and constantly expanding skills.
+     I'm a passionate software developer and UI designer based on India. I write blogs, solve problems and create beautiful User interfaces. I'm self-taught enjoy studying new technologies and constantly expanding my skills.
   </strong>
 </div>
 
