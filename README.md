@@ -41,7 +41,7 @@ I'm self-taught enjoy studying new technologies and constantly expanding my skil
    <a href="https://www.github.com/muhammed-sahad-c" target="__blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-   <a href="https://www.muhammedsahad.medium.com" target="__blank">
+   <a href="https://muhammedsahad.medium.com/" target="__blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
    <a href="https://www.linkedin.com/in/muhammed-sahad-781a15231/" target="__blank">
