@@ -60,5 +60,5 @@ I'm self-taught enjoy studying new technologies and constantly expanding my skil
 
 📧 Email: sahadmuhammed289@gmail.com
 
-<h6>Let's connect and create something extraordinary together 💡
+<h6>Let's connect and create something extraordinary together   💡. 
 </h6>
