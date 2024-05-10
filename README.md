@@ -29,7 +29,7 @@ I'm self-taught enjoy studying new technologies and constantly expanding my skil
   </a>
 </p>
 
-## 💌 Contact
+## 💌 Follow me on
 
 <p align="start">
   <a href="https://www.instagram.com/iam_sahad__/" target="__blank">
@@ -55,6 +55,9 @@ I'm self-taught enjoy studying new technologies and constantly expanding my skil
   </a>
    <a href="https://www.youtube.com/channel/UCG9uyE89cnR63OOCHrA681Q" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCG9uyE89cnR63OOCHrA681Q" target="_blank">
+    <img src="https://img.shields.io/badge/stack overflow-f7a664?style=for-the-badge&logo=stackOverflow&logoColor=white" />
   </a>
 </p>
 
