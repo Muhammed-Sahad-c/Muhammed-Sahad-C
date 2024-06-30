@@ -25,6 +25,11 @@ I'm self-taught enjoy studying new technologies and constantly expanding my skil
 </p>
 <p align="start">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  </a>
+</p>
+<p align="start">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,postman,git,github,notion" />
   </a>
 </p>
