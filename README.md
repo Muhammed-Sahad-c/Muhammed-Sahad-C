@@ -34,6 +34,38 @@ I'm self-taught enjoy studying new technologies and constantly expanding my skil
   </a>
 </p>
 
+
+## 📃 My Top Blogs
+
+<table>
+  <tr>
+    <td>
+      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/3">
+        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/3" alt="Recent Article 1">
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/4">
+        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/4" alt="Recent Article 2">
+      </a>
+    </td>
+  </tr>
+  <tr>
+     <td>
+      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/5">
+        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/5" alt="Recent Article 5">
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/6">
+        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/6" alt="Recent Article 6">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 ## 💌 Follow me on
 <p align="start">
   <a href="https://www.instagram.com/iam_sahad__/">
@@ -74,3 +106,6 @@ I'm self-taught enjoy studying new technologies and constantly expanding my skil
 
 <h6>Let's connect and create something extraordinary together   💡. 
 </h6>
+
+
+
