@@ -10,29 +10,11 @@ I'm self-taught enjoy studying new technologies and constantly expanding my skil
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,react,vite,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,react,vite,redux,nodejs,expressjs,dotnet,cs,npm,mongodb,mysql,flutter,dart,vscode,visualstudio,figma,postman,git,github,notion" />
   </a>
 </p>
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,dotnet,cs,npm" />
-  </a>
-</p>
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  </a>
-</p>
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart" />
-  </a>
-</p>
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,postman,git,github,notion" />
-  </a>
-</p>
+
+
 
 
 ## 📃 My Top Blogs
