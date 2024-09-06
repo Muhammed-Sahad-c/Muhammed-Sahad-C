@@ -34,8 +34,8 @@ I'm self-taught enjoy studying new technologies and constantly expanding my skil
   </tr>
   <tr>
      <td>
-      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/5">
-        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/5" alt="Recent Article 5">
+      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/2">
+        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/2" alt="Recent Article 2">
       </a>
     </td>
     <td>
