@@ -65,7 +65,8 @@ I'm self-taught enjoy studying new technologies and constantly expanding my skil
    <a href="https://www.linkedin.com/in/muhammed-sahad-781a15231/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
+
+ 
 </p>
 
 <p align="start">
@@ -81,6 +82,12 @@ I'm self-taught enjoy studying new technologies and constantly expanding my skil
   </a>
    <a href="https://www.youtube.com/channel/UCG9uyE89cnR63OOCHrA681Q" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+   <a href="https://codesandbox.io/u/muhammed-sahad-c" target="_blank">
+    <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  </a>
+   <a href="https://codepen.io/Muhammed-Sahad-c" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
 </p>
 
