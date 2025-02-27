@@ -2,9 +2,11 @@
 
 ## 👤 About me
 
-I'm a passionate software developer and UI designer based on India. </br>
+<h3>
+  I'm a passionate software developer and UI designer based on India. </br>
 I write blogs, solve problems and create beautiful User interfaces. </br>
 I'm self-taught enjoy studying new technologies and constantly expanding my skills. </br>
+</h3>
 
 ## 🛠️ Languages and tools
 
