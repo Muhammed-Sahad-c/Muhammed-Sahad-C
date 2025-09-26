@@ -1,54 +1,42 @@
 <img width="1584" height="396" alt="Linked in banner (5)" src="https://github.com/user-attachments/assets/b54283d2-38b2-43c6-a5cc-e60a090a69f4" />
 
+## SUMMARY
 
-## 👤 About me
+*I'm a passionate Software Developer with 2+ years of experience in building scalable and efficient web applications in MERN Stack. I'm currently working at <a href="https://sharaco.com" target="_blank">Sharaco Technologies PVT LTD</a> contributing to <a href="https://flowbee.io" target="_blank">flowbee.io</a> , a meta business provider platform.*
 
-<h3>
-  Passionate Software Developer with 2+ years of experience in building scalable web applications using the MERN stack. Currently working at Sharaco Technologies on <a href="https://flowbee.io">flowbee.io</a>, focusing on front-end development. Rather than programming, i write blogs, creating UI designs and love to attend tech events.
+*I got interested in programming during my 12th standard when i chose computer science and learned C++. That's where my coding journey started. Later, I taught myself C, Java, basic web technologies like HTML and CSS and started building websites.*
 
-## 🛠️ Languages and tools
+*After school, to expand my knowledge and skills i joined  <a href="https://brototype.com" target="_blank">Brototype</a> learning program and learned MERN Stack Development. during that time i build both small and large applications, which gave me hands-on experience in full stack development.*
+
+*This experience helped me start my career as a Software Developer. Now, I'm working with a talented team at Sharaco Technologies. rather than programming I enjoy creating UI designs, writing blogs about technology, and attending tech events.*
+
+[![Download Resume](https://img.shields.io/badge/⬇️%20Download%20Resume-darkgreen?style=for-the-badge)](https://drive.google.com/file/d/1O1o0dFwYwZjqZ0kIuPEjBlPcdT3UGo0e/view?usp=drive_link)
+ 
+## Languages and tools
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,react,vite,redux,nodejs,expressjs,dotnet,cs,npm,mongodb,mysql,flutter,dart,vscode,visualstudio,figma,postman,git,github,notion" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,react,vite,redux,nodejs,expressjs,dotnet,cs,npm,mongodb,mysql,flutter,dart,vscode,visualstudio,figma,postman,git,github,notion,docker,native" />
+  </a>
+</p>
+
+## My Top Blogs
+
+ <p align="right">
+  <a href="https://medium.com/@muhammedsahad" target="_blank">
+    <img src="https://img.shields.io/badge/📚%20View%20All-black?style=for-the-badge" alt="View All"/>
   </a>
 </p>
 
 
-
-
-## 📃 My Top Blogs
-
-<table>
-  <tr>
-    <td>
-      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/3">
-        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/3" alt="Recent Article 1">
-      </a>
-    </td>
-    <td>
-      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/4">
-        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/4" alt="Recent Article 2">
-      </a>
-    </td>
-  </tr>
-  <tr>
-     <td>
-      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/2">
-        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/2" alt="Recent Article 2">
-      </a>
-    </td>
-    <td>
-      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/6">
-        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/6" alt="Recent Article 6">
-      </a>
-    </td>
-  </tr>
-</table>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/5" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammedsahad/6" alt="Recent Article 0"> 
 
 
 
-## 💌 Follow me on
+
+
+## Follow me on
 <p align="start">
   <a href="https://www.instagram.com/iam_sahad__/">
     <img src="https://skillicons.dev/icons?i=instagram" />
