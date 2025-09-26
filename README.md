@@ -1,12 +1,10 @@
-<img width="1584" height="396" alt="Linked in banner (4)" src="https://github.com/user-attachments/assets/fab71a6e-7785-49e5-bfe1-1c4784859609" />
+<img width="1584" height="396" alt="Linked in banner (5)" src="https://github.com/user-attachments/assets/b54283d2-38b2-43c6-a5cc-e60a090a69f4" />
+
 
 ## 👤 About me
 
 <h3>
-  I'm a passionate software developer and UI designer based on India. </br>
-I write blogs, solve problems and create beautiful User interfaces. </br>
-I'm self-taught enjoy studying new technologies and constantly expanding my skills. </br>
-</h3>
+  Passionate Software Developer with 2+ years of experience in building scalable web applications using the MERN stack. Currently working at Sharaco Technologies on <a href="https://flowbee.io">flowbee.io</a>, focusing on front-end development. Rather than programming, i write blogs, creating UI designs and love to attend tech events.
 
 ## 🛠️ Languages and tools
 
