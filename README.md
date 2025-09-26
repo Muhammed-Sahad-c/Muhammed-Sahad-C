@@ -1,4 +1,4 @@
-<img src="https://github.com/Muhammed-Sahad-c/Muhammed-Sahad-C/assets/109616941/0d277002-bb3b-48b4-839f-0d1c8ab5fdf3"/>
+<img width="1584" height="396" alt="Linked in banner (4)" src="https://github.com/user-attachments/assets/fab71a6e-7785-49e5-bfe1-1c4784859609" />
 
 ## 👤 About me
 
