@@ -10,7 +10,7 @@
 
 *This experience helped me start my career as a Software Developer. Now, I'm working with a talented team at Sharaco Technologies. rather than programming I enjoy creating UI designs, writing blogs about technology, and attending tech events.*
 
-[![Download Resume](https://img.shields.io/badge/⬇️%20Download%20Resume-green?style=for-the-badge)](https://drive.google.com/file/d/1O1o0dFwYwZjqZ0kIuPEjBlPcdT3UGo0e/view?usp=drive_link)
+[![Download Resume](https://img.shields.io/badge/⬇️%20Download%20Resume-green?style=for-the-badge)](https://drive.google.com/file/d/1VzaRl1KLAgDE7GuFCZ1NqHuaFyDFX78D/view?usp=drive_link)
  
 ## Languages and tools
 
