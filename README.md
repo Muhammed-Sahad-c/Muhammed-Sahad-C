@@ -38,7 +38,7 @@
 
 ## Follow me on
 <p align="start">
-  <a href="https://www.instagram.com/iam_sahad__/">
+  <a href="https://www.instagram.com/sahad.me">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
@@ -50,7 +50,7 @@
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
 
-   <a href="https://www.linkedin.com/in/muhammed-sahad-781a15231/">
+   <a href="https://www.linkedin.com/in/mhmd-sahad">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
