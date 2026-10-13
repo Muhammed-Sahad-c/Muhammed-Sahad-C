@@ -1,14 +1,7 @@
 <img width="1584" height="396" alt="Linked in banner (5)" src="https://github.com/user-attachments/assets/b54283d2-38b2-43c6-a5cc-e60a090a69f4" />
 
 ## SUMMARY
-
-*I'm a passionate Software Developer with 2+ years of experience in building scalable and efficient web applications in MERN Stack. I'm currently working at <a href="https://sharaco.com" target="_blank">Sharaco Technologies PVT LTD</a> contributing to <a href="https://flowbee.io" target="_blank">flowbee.io</a> , a meta business provider platform.*
-
-*I got interested in programming during my 12th standard when i chose computer science and learned C++. That's where my coding journey started. Later, I taught myself C, Java, basic web technologies like HTML and CSS and started building websites.*
-
-*After school, to expand my knowledge and skills i joined  <a href="https://brototype.com" target="_blank">Brototype</a> learning program and learned MERN Stack Development. during that time i build both small and large applications, which gave me hands-on experience in full stack development.*
-
-*This experience helped me start my career as a Software Developer. Now, I'm working with a talented team at Sharaco Technologies. rather than programming I enjoy creating UI designs, writing blogs about technology, and attending tech events.*
+*A passionate Software Developer with 3+ years of experience in MERN Stack development, currently working at  <a href="https://sharaco.com" target="_blank">Sharaco Technologies PVT LTD</a> and working on <a href="https://flowbee.io" target="_blank">Flowbee.io</a>, a WhatsApp automation platform. Completed MERN Stack training at <a href="https://brototype.com" target="_blank">Brototype</a>, pursuing a BCA through <a href="https://sgou.ac.in/" target="_blank">SGOU</a> and completed higher secondary education in Computer Science.*
 
 [![Download Resume](https://img.shields.io/badge/⬇️%20Download%20Resume-green?style=for-the-badge)](https://drive.google.com/file/d/1VzaRl1KLAgDE7GuFCZ1NqHuaFyDFX78D/view?usp=drive_link)
  
